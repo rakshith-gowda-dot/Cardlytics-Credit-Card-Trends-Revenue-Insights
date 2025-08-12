@@ -2,8 +2,13 @@
 
 This project showcases two interactive **Power BI** dashboards — *Credit Card Customer Report* and *Credit Card Transaction Report* — developed using SQL-based datasets.  
 These dashboards provide **100% real-time visibility** into revenue, transaction volume, and customer behavior, enabling data-driven decision-making for financial institutions.
+<img width="1207" height="696" alt="Screenshot 2025-08-12 204227" src="https://github.com/user-attachments/assets/7dc9c9e0-063f-4a8a-aacb-7244c48565f5" />
+<img width="1208" height="695" alt="Screenshot 2025-08-12 204255" src="https://github.com/user-attachments/assets/232c074d-ccdf-44f9-9a89-eb233e0cd76c" />
+
+
 
 ---
+
 
 ## Objective
 
